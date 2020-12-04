@@ -4,8 +4,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 I’m currently learning Front-end Development
+- 📚 I’m currently learning everything about Frontend and Backend technologies
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -41,5 +42,9 @@
   <a href="https://www.facebook.com/ditoangsarap" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30"></a>
    <a href="mailto:harold.goldensky@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
  
+ 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/738r6zbp9hfpdqoj5nnnarclo)
 
 
