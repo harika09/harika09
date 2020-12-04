@@ -43,8 +43,5 @@
    <a href="mailto:harold.goldensky@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
  
  
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/738r6zbp9hfpdqoj5nnnarclo)
 
 
