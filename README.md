@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 📚 I’m currently learning everything about Frontend technologies
+- 📚 I’m currently learning everything about Frontend & Backend technologies
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 
